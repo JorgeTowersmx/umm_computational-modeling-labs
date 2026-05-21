@@ -1,1 +1,51 @@
+miniSIEM es un proyecto académico diseñado para introducir conceptos de monitoreo, correlación de eventos y análisis computacional inspirados en plataformas SIEM (Security Information and Event Management) utilizadas en la industria.
 
+El objetivo principal no es construir un SIEM comercial, sino utilizar un caso de uso realista para aplicar principios de:
+
+Modelado computacional
+Matemáticas aplicadas
+Análisis de datos
+Procesamiento de eventos
+Simulación de sistemas
+Detección de patrones
+Automatización básica
+
+El proyecto permite a los estudiantes comprender cómo los sistemas modernos procesan grandes cantidades de información en tiempo real para generar conocimiento útil a partir de eventos aparentemente aislados.
+
+¿Qué es un SIEM?
+
+Un SIEM es una plataforma utilizada en ciberseguridad para:
+
+Recibir eventos de múltiples sistemas
+Analizar registros (logs)
+Detectar comportamientos sospechosos
+Correlacionar eventos
+Generar alertas
+
+Ejemplos reales de SIEM en la industria incluyen:
+
+IBM QRadar
+Splunk
+Microsoft Sentinel
+Elastic Security
+
+Relación con la materia de Modelado y Matemáticas Computacionales
+
+Este proyecto fue diseñado para demostrar cómo los conceptos matemáticos y computacionales pueden utilizarse para modelar sistemas reales.
+
+Conceptos de la materia aplicados en miniSIEM
+
+1. Modelado de sistemas
+
+El SIEM puede verse como un sistema compuesto por:
+
+Entradas → logs/eventos
+Procesamiento → análisis
+Reglas → correlación
+Salidas → alertas
+
+Modelo general:
+
+Entrada → Procesamiento → Decisión → Resultado
+
+Esto permite representar matemáticamente el comportamiento del sistema.
